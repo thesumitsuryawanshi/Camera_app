@@ -4,7 +4,7 @@ this is a trial camera app.
 Concepts used: 
  - CameraX lib
  - viewBinding
- - Camera (Physical)
+ - Camera (hardware feature)
 
 ## UI :
 
